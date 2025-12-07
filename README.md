@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Piyush
 
 ## 🚀 What I Do
-- Building **SaaS tools**, automation projects & clean UI web apps  
-- Focused on **Next.js**, **Supabase**, **Stripe**, **Tailwind**  
-- Learning **copywriting, content writing & freelancing**  
+- Building **SaaS tools**, awwwwards style website projects & clean UI web apps  
+- Focused on **Next.js**, **Supabase**, **React**, **Tailwind**  
+- Learning **webdesigning, SEO optimization & fullstack web development**  
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,nodejs,python,git,github,supabase,vercel" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,nodejs,git,github,supabase,vercel" />
 </p>
 
 ## 📌 Current Work
 - Image-to-PDF SaaS  
-- Freelance marketplace  
-- Content & copywriting brand  
+- Student note SaaS
+- Web Design studio <a href="https://www.instagram.com/accurex.studio/">Accurex</a> 
 
 ## 🎯 Goals
 - Build profitable mini-SaaS products  
