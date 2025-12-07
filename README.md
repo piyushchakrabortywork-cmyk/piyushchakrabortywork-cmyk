@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Piyush
 
-<!--
-**piyushchakrabortywork-cmyk/piyushchakrabortywork-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I Do
+- Building **SaaS tools**, automation projects & clean UI web apps  
+- Focused on **Next.js**, **Supabase**, **Stripe**, **Tailwind**  
+- Learning **copywriting, content writing & freelancing**  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,nodejs,python,git,github,supabase,vercel" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Work
+- Image-to-PDF SaaS  
+- Freelance marketplace  
+- Content & copywriting brand  
+
+## 🎯 Goals
+- Build profitable mini-SaaS products  
+- Grow into a full-stack developer + creator  
+- Improve UI/UX, speed & product thinking  
+
+## 📫 Contact
+**Email:** piyushchakrabortywork@gmail.com  
+**GitHub:** github.com/piyushchakrabortywork-cmyk
